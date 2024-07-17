@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/sanje/Desktop/Coding Journey/Ray Tracing in a Weekend/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\RayTracing.dir\\main.cpp.obj -c \"C:\\Users\\sanje\\Desktop\\Coding Journey\\Ray Tracing in a Weekend\\main.cpp\"",
+  "file": "C:/Users/sanje/Desktop/Coding Journey/Ray Tracing in a Weekend/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.obj"
+}
+]
